@@ -1,0 +1,17 @@
+/exp/
+/dataset/
+/TFlog/
+.idea/
+/wz_relay/
+/create_dataset/make_data/dual_mic_data/s_show1.png
+/create_dataset/make_data/dual_mic_data/s_show_relay.png
+/create_dataset/make_data/dual_mic_data/show_mel_spe.py
+/test_ret/
+/create_dataset/dual_mic_dataset/org/
+/wz_relay_dual/wz_relay_train.json
+/wz_relay_dual/wz_relay_train_weight.csv
+/wz_relay_dual/wz_relay_val.json
+*.wav
+*.ptn
+*.png
+*.csv

@@ -1,0 +1,148 @@
+2022-08-05 17:19:51,549 - INFO - epoch 23 training time: 65.530
+2022-08-05 17:19:51,551 - INFO - ---------------
+2022-08-05 17:19:51,552 - INFO - 2022-08-05 17:19:51.552344
+2022-08-05 17:19:51,552 - INFO - current #epochs=24, #steps=38732
+2022-08-05 17:20:43,749 - INFO - start validation
+2022-08-05 17:20:43,750 - INFO - validate:
+2022-08-05 17:20:56,545 - INFO - validate ensemble:
+2022-08-05 17:20:56,566 - INFO - acc: 0.7168 (ng:1.000, ok:0.000)
+2022-08-05 17:20:56,567 - INFO - AUC: 0.500000
+2022-08-05 17:20:56,567 - INFO - Avg Precision: 0.500000
+2022-08-05 17:20:56,567 - INFO - Avg Recall: 1.000000
+2022-08-05 17:20:56,568 - INFO - d_prime: 0.000000
+2022-08-05 17:20:56,568 - INFO - train_loss: 0.000001
+2022-08-05 17:20:56,569 - INFO - valid_loss: 4.010850
+2022-08-05 17:20:56,571 - INFO - validation finished
+2022-08-05 17:20:56,571 - INFO - @@@@@@@@@@@@@@@@@@@@best epoch:1 acc:0.7167553191489362 loss:2.9319074153900146
+2022-08-05 17:20:56,593 - INFO - Epoch-24 lr: 0.0049572
+2022-08-05 17:20:56,594 - INFO - epoch 24 training time: 65.043
+2022-08-05 17:20:56,595 - INFO - ---------------
+2022-08-05 17:20:56,595 - INFO - 2022-08-05 17:20:56.595266
+2022-08-05 17:20:56,595 - INFO - current #epochs=25, #steps=40416
+2022-08-05 17:21:48,378 - INFO - start validation
+2022-08-05 17:21:48,379 - INFO - validate:
+2022-08-05 17:21:59,717 - INFO - validate ensemble:
+2022-08-05 17:21:59,737 - INFO - acc: 0.7168 (ng:1.000, ok:0.000)
+2022-08-05 17:21:59,738 - INFO - AUC: 0.500000
+2022-08-05 17:21:59,738 - INFO - Avg Precision: 0.500000
+2022-08-05 17:21:59,738 - INFO - Avg Recall: 1.000000
+2022-08-05 17:21:59,739 - INFO - d_prime: 0.000000
+2022-08-05 17:21:59,740 - INFO - train_loss: 0.000001
+2022-08-05 17:21:59,740 - INFO - valid_loss: 4.011538
+2022-08-05 17:21:59,742 - INFO - validation finished
+2022-08-05 17:21:59,742 - INFO - @@@@@@@@@@@@@@@@@@@@best epoch:1 acc:0.7167553191489362 loss:2.9319074153900146
+2022-08-05 17:21:59,763 - INFO - Epoch-25 lr: 0.00446148
+2022-08-05 17:21:59,765 - INFO - epoch 25 training time: 63.172
+2022-08-05 17:21:59,765 - INFO - ---------------
+2022-08-05 17:21:59,765 - INFO - 2022-08-05 17:21:59.765910
+2022-08-05 17:21:59,766 - INFO - current #epochs=26, #steps=42100
+2022-08-05 17:22:49,849 - INFO - start validation
+2022-08-05 17:22:49,849 - INFO - validate:
+2022-08-05 17:23:02,300 - INFO - validate ensemble:
+2022-08-05 17:23:02,321 - INFO - acc: 0.7168 (ng:1.000, ok:0.000)
+2022-08-05 17:23:02,322 - INFO - AUC: 0.500000
+2022-08-05 17:23:02,322 - INFO - Avg Precision: 0.500000
+2022-08-05 17:23:02,323 - INFO - Avg Recall: 1.000000
+2022-08-05 17:23:02,324 - INFO - d_prime: 0.000000
+2022-08-05 17:23:02,324 - INFO - train_loss: 0.000001
+2022-08-05 17:23:02,324 - INFO - valid_loss: 4.012255
+2022-08-05 17:23:02,326 - INFO - validation finished
+2022-08-05 17:23:02,326 - INFO - @@@@@@@@@@@@@@@@@@@@best epoch:1 acc:0.7167553191489362 loss:2.9319074153900146
+2022-08-05 17:23:02,347 - INFO - Epoch-26 lr: 0.00446148
+2022-08-05 17:23:02,348 - INFO - epoch 26 training time: 62.583
+2022-08-05 17:23:02,349 - INFO - ---------------
+2022-08-05 17:23:02,349 - INFO - 2022-08-05 17:23:02.349462
+2022-08-05 17:23:02,349 - INFO - current #epochs=27, #steps=43784
+2022-08-05 17:23:52,545 - INFO - start validation
+2022-08-05 17:23:52,545 - INFO - validate:
+2022-08-05 17:24:04,886 - INFO - validate ensemble:
+2022-08-05 17:24:04,906 - INFO - acc: 0.7168 (ng:1.000, ok:0.000)
+2022-08-05 17:24:04,907 - INFO - AUC: 0.500000
+2022-08-05 17:24:04,907 - INFO - Avg Precision: 0.500000
+2022-08-05 17:24:04,908 - INFO - Avg Recall: 1.000000
+2022-08-05 17:24:04,908 - INFO - d_prime: 0.000000
+2022-08-05 17:24:04,909 - INFO - train_loss: 0.000001
+2022-08-05 17:24:04,909 - INFO - valid_loss: 4.012918
+2022-08-05 17:24:04,911 - INFO - validation finished
+2022-08-05 17:24:04,911 - INFO - @@@@@@@@@@@@@@@@@@@@best epoch:1 acc:0.7167553191489362 loss:2.9319074153900146
+2022-08-05 17:24:04,932 - INFO - Epoch-27 lr: 0.00446148
+2022-08-05 17:24:04,934 - INFO - epoch 27 training time: 62.585
+2022-08-05 17:24:04,934 - INFO - ---------------
+2022-08-05 17:24:04,934 - INFO - 2022-08-05 17:24:04.934264
+2022-08-05 17:24:04,935 - INFO - current #epochs=28, #steps=45468
+2022-08-05 17:24:55,469 - INFO - start validation
+2022-08-05 17:24:55,469 - INFO - validate:
+2022-08-05 17:25:06,927 - INFO - validate ensemble:
+2022-08-05 17:25:06,948 - INFO - acc: 0.7168 (ng:1.000, ok:0.000)
+2022-08-05 17:25:06,948 - INFO - AUC: 0.500000
+2022-08-05 17:25:06,949 - INFO - Avg Precision: 0.500000
+2022-08-05 17:25:06,949 - INFO - Avg Recall: 1.000000
+2022-08-05 17:25:06,950 - INFO - d_prime: 0.000000
+2022-08-05 17:25:06,950 - INFO - train_loss: 0.000001
+2022-08-05 17:25:06,950 - INFO - valid_loss: 4.012129
+2022-08-05 17:25:06,952 - INFO - validation finished
+2022-08-05 17:25:06,953 - INFO - @@@@@@@@@@@@@@@@@@@@best epoch:1 acc:0.7167553191489362 loss:2.9319074153900146
+2022-08-05 17:25:06,974 - INFO - Epoch-28 lr: 0.00446148
+2022-08-05 17:25:06,975 - INFO - epoch 28 training time: 62.041
+2022-08-05 17:25:06,976 - INFO - ---------------
+2022-08-05 17:25:06,976 - INFO - 2022-08-05 17:25:06.976257
+2022-08-05 17:25:06,976 - INFO - current #epochs=29, #steps=47152
+2022-08-05 17:25:57,161 - INFO - start validation
+2022-08-05 17:25:57,161 - INFO - validate:
+2022-08-05 17:26:09,112 - INFO - validate ensemble:
+2022-08-05 17:26:09,133 - INFO - acc: 0.7168 (ng:1.000, ok:0.000)
+2022-08-05 17:26:09,134 - INFO - AUC: 0.500000
+2022-08-05 17:26:09,134 - INFO - Avg Precision: 0.500000
+2022-08-05 17:26:09,135 - INFO - Avg Recall: 1.000000
+2022-08-05 17:26:09,136 - INFO - d_prime: 0.000000
+2022-08-05 17:26:09,136 - INFO - train_loss: 0.000001
+2022-08-05 17:26:09,136 - INFO - valid_loss: 4.012476
+2022-08-05 17:26:09,138 - INFO - validation finished
+2022-08-05 17:26:09,138 - INFO - @@@@@@@@@@@@@@@@@@@@best epoch:1 acc:0.7167553191489362 loss:2.9319074153900146
+2022-08-05 17:26:09,159 - INFO - Epoch-29 lr: 0.00446148
+2022-08-05 17:26:09,161 - INFO - epoch 29 training time: 62.186
+2022-08-05 17:26:09,161 - INFO - ---------------
+2022-08-05 17:26:09,162 - INFO - 2022-08-05 17:26:09.162540
+2022-08-05 17:26:09,162 - INFO - current #epochs=30, #steps=48836
+2022-08-10 14:00:03,039 - INFO - balanced sampler is being used
+2022-08-10 14:00:03,065 - INFO - ########training dataset: 4802
+2022-08-10 14:00:03,065 - INFO - ---------------the train dataloader---------------
+2022-08-10 14:00:03,065 - INFO - now using following mask: 8 freq, 16 time
+2022-08-10 14:00:03,065 - INFO - now using mix-up with rate 0.000000
+2022-08-10 14:00:03,065 - INFO - now process audioset
+2022-08-10 14:00:03,066 - INFO - use dataset mean -6.014 and std 4.771 to normalize the input.
+2022-08-10 14:00:03,066 - INFO - number of classes is 2
+2022-08-10 14:00:03,067 - INFO - ########val dataset: 752
+2022-08-10 14:00:03,067 - INFO - ---------------the evaluation dataloader---------------
+2022-08-10 14:00:03,068 - INFO - now using following mask: 0 freq, 0 time
+2022-08-10 14:00:03,068 - INFO - now using mix-up with rate 0.000000
+2022-08-10 14:00:03,068 - INFO - now process audioset
+2022-08-10 14:00:03,068 - INFO - use dataset mean -6.014 and std 4.771 to normalize the input.
+2022-08-10 14:00:03,068 - INFO - number of classes is 2
+2022-08-10 14:00:03,333 - INFO - Total parameter number is : 0.073 million
+2022-08-10 14:00:03,333 - INFO - 
+Creating experiment directory: ../exp/7.28
+2022-08-10 14:00:03,363 - INFO - running on cuda
+2022-08-10 14:00:03,882 - INFO - Total parameter number is : 0.073 million
+2022-08-10 14:00:03,882 - INFO - Total trainable parameter number is : 0.073 million
+2022-08-10 14:00:03,883 - INFO - now training with audioset, main metrics: acc, loss function: BCELoss(), learning rate scheduler: <torch.optim.lr_scheduler.MultiStepLR object at 0x00000184F2A578E0>
+2022-08-10 14:00:03,883 - INFO - The learning rate scheduler starts at 10 epoch with decay rate of 0.900 
+2022-08-10 14:00:03,883 - INFO - current #steps=0, #epochs=1
+2022-08-10 14:00:03,883 - INFO - start training...
+2022-08-10 14:00:03,884 - INFO - ---------------
+2022-08-10 14:00:03,884 - INFO - 2022-08-10 14:00:03.884974
+2022-08-10 14:00:03,885 - INFO - current #epochs=1, #steps=0
+2022-08-10 14:00:50,878 - INFO - warm-up learning rate is 0.000000
+2022-08-10 14:01:28,245 - INFO - warm-up learning rate is 0.000340
+2022-08-10 14:01:30,870 - INFO - warm-up learning rate is 0.000680
+2022-08-10 14:01:33,356 - INFO - warm-up learning rate is 0.001020
+2022-08-10 14:01:35,817 - INFO - warm-up learning rate is 0.001360
+2022-08-10 14:01:38,285 - INFO - warm-up learning rate is 0.001700
+2022-08-10 14:01:41,136 - INFO - warm-up learning rate is 0.002040
+2022-08-10 14:01:43,722 - INFO - warm-up learning rate is 0.002380
+2022-08-10 14:01:45,967 - INFO - warm-up learning rate is 0.002720
+2022-08-10 14:01:48,207 - INFO - warm-up learning rate is 0.003060
+2022-08-10 14:01:50,441 - INFO - warm-up learning rate is 0.003400
+2022-08-10 14:01:52,651 - INFO - warm-up learning rate is 0.003740
+2022-08-10 14:01:54,945 - INFO - warm-up learning rate is 0.004080
+2022-08-10 14:01:57,355 - INFO - warm-up learning rate is 0.004420

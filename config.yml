@@ -1,0 +1,8 @@
+TRAINING:
+  dataset_json_file: 'C:\workspace\zhouhe\datasets\relay\wz_relay_file'
+  mixup_factor: [[0.8, 1.0], [0.8, 1.0]] # NG和OK混合比例  [[0.8, 1.0], [0.8, 1.0]] acc: 0.87
+  dataset_factor: 0.5 # NG占比
+  interval_second: 1.5 # 每一帧时间长度1.5s
+  shift_second: 0.3 # 每一个 batch size 音频间隔时间0.3s
+  sound_rate: 22050
+  time_mask_factor: 0.35

@@ -1,0 +1,23 @@
+llvmlite==0.36.0
+matplotlib==3.4.2
+numba==0.53.1
+numpy~=1.22.3
+scikit-learn~=1.0.2
+scipy~=1.7.3
+sklearn==0.0
+torch~=1.10.1
+torchaudio~=0.10.1
+torchvision~=0.11.2
+wget==3.2
+zipp==3.4.1
+efficientnet-lite-pytorch==0.1.0
+efficientnet-pytorch==0.7.0
+-e git+https://github.com/pytorch/fairseq@bcc81f6d5291c3996c8b2472282458dead46343f#egg=fairseq
+librosa~=0.9.1
+SoundFile~=0.10.3.post1
+tensorboardX~=2.2
+pyaudio==0.2.11
+ppmpeg==4.2.2
+pydub==0.25.1
+tqdm==4.64.0
+opencv-python==4.6.0.66

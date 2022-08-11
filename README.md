@@ -1,4 +1,5 @@
-# PSLA: Improving Audio Tagging with Pretraining, Sampling, Labeling, and Aggregation
+# This project is inspired by this paper: PSLA: Improving Audio Tagging with Pretraining, Sampling, Labeling, and Aggregation
+with the usage of ShuffleNet in neural networks, and removed mixedup nad time/frequency masking, it uses Bibary Cross Entropy as Loss function, and dual microphone technologies to cacel noise.
  - [Introduction](#Introduction)
  - [Getting Started](#Getting-Started)
  - [FSD50K Recipe](#FSD50K-Recipe)
